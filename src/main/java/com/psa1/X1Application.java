@@ -6,6 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class X1Application {
 
+	String name = "Amit Kumar Bhanjbabu";
+	int age = 25;
+	String degree = "BCA";
 	public static void main(String[] args) {
 		SpringApplication.run(X1Application.class, args);
 	}
