@@ -8,8 +8,8 @@ public class X1Application {
 
 	String name = "Amit Kumar Bhanjbabu";
 	int age = 25;
-	float num = 123.56f;
 	String degree = "BCA";
+	float num = 123.56f;
 	public static void main(String[] args) {
 		SpringApplication.run(X1Application.class, args);
 	}
